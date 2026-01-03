@@ -15,22 +15,22 @@ The project encompasses the entire dashboard lifecycle, from data preparation to
 
 ## 🗂 Project Workflow
 
-**— Color Schema**  
+**- Color Schema**  
 Defined a consistent color palette for clarity and visual hierarchy.
 
-**— Project Steps**  
+**- Project Steps**  
 Planned KPIs, scope, and dashboard structure.
 
-**— Build Data Source**  
+**- Build Data Source**  
 Prepared and validated HR data in Tableau.
 
-**— Build Charts**  
+**- Build Charts**  
 Created core HR visuals (headcount, attrition, demographics).
 
-**— Plan Summary Dashboard**  
+**- Plan Summary Dashboard**  
 Designed layout for executive-level insights.
 
-**— Build Summary Dashboard**  
+**- Build Summary Dashboard**  
 Implemented KPIs, charts, and filters.
 
 **— Fine-Tuning Summary Dashboard**  
@@ -42,10 +42,10 @@ Added supporting visuals for deeper analysis.
 **— Plan Detailed Dashboard**  
 Designed drill-down views and user flow.
 
-**—Build Detailed Dashboard**  
+**- Build Detailed Dashboard**  
 Built detailed dashboards with filters and actions.
 
-**Summary**  
+**- Summary**  
 Final validation and review of insights.
 
 ---
