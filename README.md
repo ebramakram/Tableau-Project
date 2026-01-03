@@ -33,13 +33,13 @@ Designed layout for executive-level insights.
 **- Build Summary Dashboard**  
 Implemented KPIs, charts, and filters.
 
-**— Fine-Tuning Summary Dashboard**  
+**- Fine-Tuning Summary Dashboard**  
 Improved formatting, tooltips, and usability.
 
-**— Build Additional Charts**  
+**- Build Additional Charts**  
 Added supporting visuals for deeper analysis.
 
-**— Plan Detailed Dashboard**  
+**- Plan Detailed Dashboard**  
 Designed drill-down views and user flow.
 
 **- Build Detailed Dashboard**  
